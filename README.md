@@ -1,2 +1,2 @@
-# SDE-SHEET-
-Solutions of striver's SDE sheet in Java
+# SDE-SHEET
+Solutions of Striver's SDE sheet in Java
